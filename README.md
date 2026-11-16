@@ -40,8 +40,8 @@ Students already share notes, past papers and slides, but the way they do it is 
   </tr> 
   <tr>
     <td align="center"><img src="./search_screen.jpeg" width="180"/><br/><sub>🔍 Search · Filter · Sort</sub></td>
-    <td align="center"><img src="./my_upload.jpeg" width="180"/><br/><sub>⬆️ Upload Materials</sub></td>
-    <td align="center"><img src="./uploads_material.jpeg" width="180"/><br/><sub>👁️ Preview Before You Buy</sub></td>
+    <td align="center"><img src="./my_uploads.jpeg" width="180"/><br/><sub>⬆️ Upload Materials</sub></td>
+    <td align="center"><img src="./upload_material.jpeg" width="180"/><br/><sub>👁️ Preview Before You Buy</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="./upload_screen.jpeg" width="180"/><br/><sub>📄 Material Detail</sub></td>
