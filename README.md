@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./docs/logo.png" width="120" alt="IlmXchange Logo"/>
+<img src="./docs/logo.png" width="120" alt="Ilmxchange Logo"/>
 
 # IlmXchange
 ### Peer-to-Peer Study Material Marketplace for University Students
@@ -34,24 +34,19 @@ Students already share notes, past papers and slides, but the way they do it is 
 
 <table align="center">
   <tr>
-    <td align="center"><img src="./docs/screenshots/home.png" width="180"/><br/><sub>🏠 Home Feed · Categories</sub></td>
-    <td align="center"><img src="./docs/screenshots/search.png" width="180"/><br/><sub>🔍 Search · Filter · Sort</sub></td>
-    <td align="center"><img src="./docs/screenshots/detail.png" width="180"/><br/><sub>📄 Material Detail</sub></td>
+    <td align="center"><img src="./docs/screenshots/dark mode.jpeg" width="180"/><br/><sub>🌙 Dark Mode</sub></td>
+    <td align="center"><img src="./docs/screenshots/leaderboard.jpeg" width="180"/><br/><sub>🏆 Top Contributors</sub></td>
+    <td align="center"><img src="./docs/screenshots/my profile.jpeg" width="180"/><br/><sub>👤 Profile · Appearance</sub></td>
+  </tr> 
+  <tr>
+    <td align="center"><img src="./docs/screenshots/search screen.jpeg" width="180"/><br/><sub>🔍 Search · Filter · Sort</sub></td>
+    <td align="center"><img src="./docs/screenshots/my upload.jpeg" width="180"/><br/><sub>⬆️ Upload Materials</sub></td>
+    <td align="center"><img src="./docs/screenshots/uploads material screen.jpeg" width="180"/><br/><sub>👁️ Preview Before You Buy</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="./docs/screenshots/preview.png" width="180"/><br/><sub>👁️ Preview Before You Buy</sub></td>
-    <td align="center"><img src="./docs/screenshots/upload.png" width="180"/><br/><sub>⬆️ Upload Material</sub></td>
-    <td align="center"><img src="./docs/screenshots/rating.png" width="180"/><br/><sub>⭐ Rate & Review</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./docs/screenshots/wallet.png" width="180"/><br/><sub>🪙 Wallet · Recent Activity</sub></td>
-    <td align="center"><img src="./docs/screenshots/profile.png" width="180"/><br/><sub>👤 Profile · Appearance</sub></td>
-    <td align="center"><img src="./docs/screenshots/leaderboard.png" width="180"/><br/><sub>🏆 Top Contributors</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./docs/screenshots/my_uploads.png" width="180"/><br/><sub>🗂️ My Uploads Dashboard</sub></td>
-    <td align="center"><img src="./docs/screenshots/dark_mode.png" width="180"/><br/><sub>🌙 Dark Mode</sub></td>
-    <td align="center"></td>
+    <td align="center"><img src="./docs/screenshots/upload screen.jpeg" width="180"/><br/><sub>📄 Material Detail</sub></td>
+    <td align="center"><img src="./docs/screenshots/wallet.jpeg" width="180"/><br/><sub>🪙 Wallet · Recent Activity</sub></td>
+    
   </tr>
 </table>
 
