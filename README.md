@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./docs/logo.png" width="120" alt="Ilmxchange Logo"/>
+<img src="./docs/Ilmxchange logo.png" width="120" alt="IlmXchange Logo"/>
 
 # IlmXchange
 ### Peer-to-Peer Study Material Marketplace for University Students
