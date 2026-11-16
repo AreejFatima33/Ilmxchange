@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./docs/Ilmxchange logo.png" width="120" alt="IlmXchange Logo"/>
+<img src="./Ilmxchange logo.png" width="120" alt="IlmXchange Logo"/>
 
 # IlmXchange
 ### Peer-to-Peer Study Material Marketplace for University Students
@@ -34,18 +34,18 @@ Students already share notes, past papers and slides, but the way they do it is 
 
 <table align="center">
   <tr>
-    <td align="center"><img src="./docs/screenshots/dark mode.jpeg" width="180"/><br/><sub>🌙 Dark Mode</sub></td>
-    <td align="center"><img src="./docs/screenshots/leaderboard.jpeg" width="180"/><br/><sub>🏆 Top Contributors</sub></td>
-    <td align="center"><img src="./docs/screenshots/my profile.jpeg" width="180"/><br/><sub>👤 Profile · Appearance</sub></td>
+    <td align="center"><img src="./dark_mode.jpeg" width="180"/><br/><sub>🌙 Dark Mode</sub></td>
+    <td align="center"><img src="./leaderboard.jpeg" width="180"/><br/><sub>🏆 Top Contributors</sub></td>
+    <td align="center"><img src="./my_profile.jpeg" width="180"/><br/><sub>👤 Profile · Appearance</sub></td>
   </tr> 
   <tr>
-    <td align="center"><img src="./docs/screenshots/search screen.jpeg" width="180"/><br/><sub>🔍 Search · Filter · Sort</sub></td>
-    <td align="center"><img src="./docs/screenshots/my upload.jpeg" width="180"/><br/><sub>⬆️ Upload Materials</sub></td>
-    <td align="center"><img src="./docs/screenshots/uploads material screen.jpeg" width="180"/><br/><sub>👁️ Preview Before You Buy</sub></td>
+    <td align="center"><img src="./search_screen.jpeg" width="180"/><br/><sub>🔍 Search · Filter · Sort</sub></td>
+    <td align="center"><img src="./my_upload.jpeg" width="180"/><br/><sub>⬆️ Upload Materials</sub></td>
+    <td align="center"><img src="./uploads_material.jpeg" width="180"/><br/><sub>👁️ Preview Before You Buy</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="./docs/screenshots/upload screen.jpeg" width="180"/><br/><sub>📄 Material Detail</sub></td>
-    <td align="center"><img src="./docs/screenshots/wallet.jpeg" width="180"/><br/><sub>🪙 Wallet · Recent Activity</sub></td>
+    <td align="center"><img src="./upload_screen.jpeg" width="180"/><br/><sub>📄 Material Detail</sub></td>
+    <td align="center"><img src="./wallet.jpeg" width="180"/><br/><sub>🪙 Wallet · Recent Activity</sub></td>
     
   </tr>
 </table>
@@ -321,7 +321,7 @@ supabase functions deploy notify-upload
 
 **Areej Fatima** · Flutter & Android Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-F0A500?style=flat-square)](https://areejfatima33.github.io/areej-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-F0A500?style=flat-square)](https://areejdev-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/areej-dev01/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/AreejFatima33)
 [![Play Store](https://img.shields.io/badge/Play_Store-See_Apps-34A853?style=flat-square&logo=google-play)](https://play.google.com/store/apps/developer?id=Areexa+Studios)
@@ -329,5 +329,5 @@ supabase functions deploy notify-upload
 ---
 
 <div align="center">
-  <sub>Built as Final Year Project · Native Android · Kotlin · Jetpack Compose</sub>
+  <sub>Built as Contract Project · Native Android · Kotlin · Jetpack Compose</sub>
 </div>
